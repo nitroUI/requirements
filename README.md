@@ -17,3 +17,8 @@
 (8) theme skin in module
 
 (9) Git Hygene
+
+--
+## Mockups
+
+![home mockup](https://github.com/nitroUI/requirements/blob/master/home-zero-v1.png)
