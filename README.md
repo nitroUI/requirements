@@ -24,3 +24,5 @@
 ![home mockup](https://github.com/nitroUI/requirements/blob/master/home-zero-v1.png)
 
 ![auxbar mockup](https://github.com/nitroUI/requirements/blob/master/user-zero-v1.png)
+
+![collect mockup](https://github.com/nitroUI/requirements/blob/master/build-zero-v1.png)
